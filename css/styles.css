@@ -1,0 +1,309 @@
+body{
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6{
+ font-family: 'Montserrat', sans-serif;
+ font-weight: 900;
+} 
+
+p{
+    color: #8f8f8f;
+} 
+
+/* Headings */
+
+.large-heading{
+    font-weight:900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.section-heading{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/* container section */
+
+.container-fluid{
+    padding: 7% 15%;
+}
+
+
+/* navigation bar */
+
+.navbar{
+    padding-bottom: 4rem;
+}
+.navbar-brand{
+    font-family: ubuntu;
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 20px;
+}
+.nav-link{
+    font-size:1rem;
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+
+/* title section */
+ 
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: left;
+}
+#title .container-fluid{
+    padding: 3% 7% 15%;
+
+}
+
+/* title-image */
+
+.title-image{
+    width: 60%;
+    margin-left: 20%;
+    transform: rotate(28deg);
+}
+
+
+/* download button */
+
+.download-button{
+    margin: 5% 1% 0 1% ;
+}
+
+/* features section */
+
+#features{
+    background-color: white;
+}
+.fearure-title{
+    font-size: 1.2rem;
+    font-weight: 900;
+}
+.features-icon{
+    color: #ef8172;
+    padding-bottom: 3%;
+}
+.features-icon:hover{
+    color: #ff4c68;
+}
+
+ /* Testimonials  */
+
+ #testimonials{
+    background-color: #ef8172;
+    color: white;
+ }
+ .testimonial-text{
+    font-size: 3rem;
+    line-height: 1,5;
+ }
+ .testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+
+}
+
+
+/* press section */
+
+ #press{
+    background-color: #ef8172;
+ }
+ .press-logo{
+   width: 15%;
+   margin: 0 20px 50px 20px;
+ }
+
+/* pricing section */
+ 
+#pricing{
+padding: 50px;
+}
+
+.pricing-text{
+ font-size: 2rem;
+ font-weight: 900;
+}
+.pricing-column{
+padding: 3% 2%;
+}
+
+/* call to action section */
+
+#cta{
+    background-color: #ff4c68;
+    color:white;
+}
+
+/* footer section */
+
+.footer-icon{
+   margin: 20px 10px;
+}
+
+
+@media(max-width: 990px){
+  .title-image{
+    position:static;
+    transform: rotate(0);
+    padding-top: 10%;
+} 
+#title{
+    text-align: center;
+}
+.title-image{
+    margin-left: 0;
+    width: 50%;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
